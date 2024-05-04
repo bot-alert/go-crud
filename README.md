@@ -1,6 +1,6 @@
 # Go CRUD API 📝
 
-This is a sample project for building a CRUD API using Go, Chi router, and some middleware.
+This is a sample project for building a CRUD API using Go , Chi router, and some middleware.
 
 ## Getting Started 🚀
 
